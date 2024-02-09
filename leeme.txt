@@ -1,0 +1,4 @@
+Aca en la carpeta tenemos el archivo CSV original y el google sheets donde lo que hice en base al analisis que use en el colab fue lo siguiente:
+Tenemos 4 valores nulos en la columna "valor" lo reemplace por  0
+Despues le di formato de numero a esa columna y la columna de la izquierda le di el formato fecha.
+Entonces lo que tenia pensado es despues volver a exportar este nuevo archivo csv pero de manera limpia y volver a hacer los procesos, luego lo documentamos
