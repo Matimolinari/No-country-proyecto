@@ -30,7 +30,7 @@ Utilizamos una base de datos de [Kaggle](https://www.kaggle.com/) que contiene i
 
 - Power BI: Para la visualización de datos, [Power BI](poner aqui el link del tablero).
   
-- Trello: Para la gestión de tareas y seguimiento del proyecto, [Trello](https://trello.com))
+- Trello: Para la gestión de tareas y seguimiento del proyecto, [Trello](https://trello.com)
 
 ## Estructura del Proyecto
 
