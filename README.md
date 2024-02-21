@@ -6,7 +6,16 @@ Simulacion Laboral de No-Country
 
 
 ## Proyecto de Fintech - Análisis de Gastos en Transferencias de Fútbol temporada de verano 2022/2023
-Participantes y roles: /ir agregando/
+
+
+![image](https://github.com/No-Country/c16-112-n-data-bi/assets/102113644/c6c5ff54-5454-4b4d-a921-1543f607bc7a)
+
+
+
+
+
+
+
 
 ![image](https://github.com/No-Country/c16-112-n-data-bi/assets/102113644/357749b9-c806-401c-985a-a72ca1ac270f)
 
