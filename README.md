@@ -50,10 +50,14 @@ Utilizamos una base de datos de [Kaggle](https://www.kaggle.com/) que contiene i
 
 ## Instrucciones de Reproducción
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repo.git`
-2. Abre el notebook en Google Colab para revisar el análisis.
+1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repo.git`.
+
+2. Abre el notebook en Google Colab para revisar el análisis, si gustan hacer el paso a paso como esta en el archio primero utilizan el 2022_2023_football_summer_transfers_v2.csv y luego cuando esten en la seccion "Empezamos a trabajar" cargan el que es correspondiente a  df_limpio(football_players_updated2022_2023.csv), sino vayan directamente a la seccion anteriormente comentaba y sigan desde ese punto.
+
 3. Consulta las visualizaciones en Power BI para obtener una comprensión más visual.
-4. Explora el informe general viendo el archivo pdf `link o algo parecido al informe`.
-5. Accede al video explicativo en *link*  para obtener una presentación más detallada.
+
+4. Explora el informe general descargando el archivo PDF en el repositorio, contara con el paso a paso desde el inicio del proyecto hasta la conclusion final del mismo.
+
+5. Accede al video explicativo en *link*  para obtener una presentación más detallada de todo nuestro proyecto.
 
 
