@@ -46,7 +46,6 @@ Utilizamos una base de datos de [Kaggle](https://www.kaggle.com/) que contiene i
 - `notebook`: Contiene el notebook de Google Colab utilizado para el análisis.
 - `visualizaciones`: visuaalizaciones realizadas en la herramienta de Power BI para generar un tablero interactivo.
 - `informe`: Archivos del informe general en formato PDF, que contiene toda la informacion de nuestro proyecto.
-- `video`: Enlaces al video explicativo de manera breve del proyecto en YouTube.
 
 ## Instrucciones de Reproducción
 
@@ -58,6 +57,5 @@ Utilizamos una base de datos de [Kaggle](https://www.kaggle.com/) que contiene i
 
 4. Explora el informe general descargando el archivo PDF en el repositorio, contara con el paso a paso desde el inicio del proyecto hasta la conclusion final del mismo.
 
-5. Accede al video explicativo en *link*  para obtener una presentación más detallada de todo nuestro proyecto.
 
 
