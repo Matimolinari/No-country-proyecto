@@ -59,7 +59,7 @@ Utilizamos una base de datos de [Kaggle](https://www.kaggle.com/) que contiene i
 
 2. Abre el notebook en Google Colab para revisar el análisis, si gustan hacer el paso a paso como esta en el archio primero utilizan el 2022_2023_football_summer_transfers_v2.csv y luego cuando esten en la seccion "Empezamos a trabajar" cargan el que es correspondiente a  df_limpio(football_players_updated2022_2023.csv), sino vayan directamente a la seccion anteriormente comentaba y sigan desde ese punto.
 
-3. Consulta las visualizaciones en Power BI para obtener una comprensión más visual, donde con el link que proporcionamos pueden verlo(no necesitan tener power bi instalado) si quieren entrar para ver mas en profundidad como asi modificarlo tienen el archivo, donde necesitan tener la herramienta instalada.
+3. Consulta las visualizaciones en Power BI para obtener una comprensión más visual, Les dejamos el tablero donde aparte de poder mirarlo pueden modificarlo si quieren, donde necesitan tener la herramienta instalada.
 Les dejamos el link para descargarla: https://www.microsoft.com/en-us/download/details.aspx?id=58494
 
 4. Explora el informe general descargando el archivo PDF en el repositorio, contara con el paso a paso desde el inicio del proyecto hasta la conclusion final del mismo.
