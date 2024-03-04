@@ -50,7 +50,7 @@ Utilizamos una base de datos de [Kaggle](https://www.kaggle.com/) que contiene i
 ## Estructura del Proyecto
 
 - `notebook`: Contiene el notebook de Google Colab utilizado para el análisis.
-- `visualizaciones`: visuaalizaciones realizadas en la herramienta de Power BI para generar un tablero interactivo.
+- `visualizaciones`: visualizaciones realizadas en la herramienta de Power BI para generar un tablero interactivo.
 - `informe`: Archivos del informe general en formato PDF, que contiene toda la informacion de nuestro proyecto.
 
 ## Instrucciones de Reproducción
