@@ -40,7 +40,7 @@ Utilizamos una base de datos de [Kaggle](https://www.kaggle.com/) que contiene i
   ![image](https://github.com/No-Country/c16-112-n-data-bi/assets/102113644/bc9aba85-1ad2-4cec-861c-7d990fbab326)
 
 
-- Power BI: Para la visualización de datos, [Power BI](poner aqui el link del tablero).
+- Power BI: Para la visualización de datos, [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWZlYjkxYzctMjYzNC00NjljLWFiZTMtNWNlODU0Njc2M2VlIiwidCI6IjlhNzFkNWY0LTIxYjEtNGZhOS1iOTZiLTRhZDdiMjQ4OWZhNSIsImMiOjR9&pageName=ReportSection7142fe2f062b061a6c63).
 
   ![image](https://github.com/No-Country/c16-112-n-data-bi/assets/102113644/c8d7cc74-5221-4f3b-b0dd-d07d27594d7c)
 
